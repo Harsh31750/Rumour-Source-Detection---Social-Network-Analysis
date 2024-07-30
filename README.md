@@ -1,5 +1,5 @@
 
-# Rumour Source Detection - Social Network Analysis
+# Rumour Source Detection - Social Network Analysis (SNA)
 
 
 This project is Done under the Department of Computer Science and Engineereing, NIT Silchar.<br>
